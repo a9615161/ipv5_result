@@ -1,0 +1,37 @@
+<annotation>
+	<folder>vehicles</folder>
+	<filename>person.jpg</filename>
+	<path>E:\vehicles\ff9435ee-ba7e-4d32-93bb-d931b3d2aca7.jpg</path>
+	<size>
+		<width>800</width>
+		<height>598</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>119</ymin>
+			<xmax>630</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+	<filename>154fef9572699a69b8fa86973da5f055.jpg</filename>
+	<path>E:\vehicles\ff9435ee-ba7e-4d32-93bb-d931b3d2aca7.jpg</path>
+	<size>
+		<width>800</width>
+		<height>598</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>119</ymin>
+			<xmax>630</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>
